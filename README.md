@@ -9,7 +9,7 @@
 
 ---
 
-# Iformações Importantes
+# Informações Importantes
 
 Esse projeto é uma atualização do Panda Store Project. Um projeto refatorado utilizando Redux.
 

@@ -3,9 +3,9 @@
 
 ## 🧑🏻‍💻👩🏾‍💻Desenvolvido por
 
-@AdaoBJr
+@[AdaoBJr](https://github.com/AdaoBJr)
 <br>
-@PollyanaOliveira
+@[PollyanaOliveira](https://github.com/PollyanaOliveira)
 
 ---
 
